@@ -1,0 +1,718 @@
+{
+  "song": "track.ogg",
+  "bpm": 99,
+  "lanes": [
+    {
+      "lane": 1,
+      "key": "A"
+    },
+    {
+      "lane": 2,
+      "key": "S"
+    },
+    {
+      "lane": 3,
+      "key": "D"
+    }
+  ],
+  "notes": [
+    {
+      "time_ms": 2472,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 3076,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 3680,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 387
+    },
+    {
+      "time_ms": 4272,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 4876,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 5468,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 6072,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 6675,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 7279,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 7871,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 8475,
+      "lane": 3,
+      "type": "trap"
+    },
+    {
+      "time_ms": 9079,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 325
+    },
+    {
+      "time_ms": 9671,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 355
+    },
+    {
+      "time_ms": 10274,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 328
+    },
+    {
+      "time_ms": 10878,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 11470,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 352
+    },
+    {
+      "time_ms": 12074,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 12678,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 13270,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 13873,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 14477,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 15069,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 15673,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 16277,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 16880,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 17473,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 374
+    },
+    {
+      "time_ms": 18076,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 18668,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 19272,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 334
+    },
+    {
+      "time_ms": 19876,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 331
+    },
+    {
+      "time_ms": 20480,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 21072,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 422
+    },
+    {
+      "time_ms": 21675,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 22267,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 22871,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 23475,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 465
+    },
+    {
+      "time_ms": 24079,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 24671,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 25274,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 25878,
+      "lane": 2,
+      "type": "trap"
+    },
+    {
+      "time_ms": 26470,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 27074,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 27678,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 418
+    },
+    {
+      "time_ms": 28270,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 28885,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 350
+    },
+    {
+      "time_ms": 29477,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 30069,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 30673,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 448
+    },
+    {
+      "time_ms": 31277,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 31869,
+      "lane": 3,
+      "type": "trap"
+    },
+    {
+      "time_ms": 32473,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 349
+    },
+    {
+      "time_ms": 33076,
+      "lane": 2,
+      "type": "trap"
+    },
+    {
+      "time_ms": 33680,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 34272,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 319
+    },
+    {
+      "time_ms": 34876,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 35468,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 36072,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 36675,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 37279,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 37871,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 38475,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 39079,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 370
+    },
+    {
+      "time_ms": 39682,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 331
+    },
+    {
+      "time_ms": 40275,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 40878,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 41470,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 42074,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 42678,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 43281,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 353
+    },
+    {
+      "time_ms": 43874,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 468
+    },
+    {
+      "time_ms": 44477,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 45069,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 45673,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 468
+    },
+    {
+      "time_ms": 46277,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 384
+    },
+    {
+      "time_ms": 46881,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 47473,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 48076,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 307
+    },
+    {
+      "time_ms": 48669,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 49272,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 49876,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 50480,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 51072,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 51676,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 52279,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 52871,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 53475,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 54079,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 444
+    },
+    {
+      "time_ms": 54671,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 55275,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 55878,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 56470,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 476
+    },
+    {
+      "time_ms": 57074,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 57678,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 319
+    },
+    {
+      "time_ms": 58270,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 58885,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 580
+    },
+    {
+      "time_ms": 59477,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 60081,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 60673,
+      "lane": 2,
+      "type": "trap"
+    },
+    {
+      "time_ms": 61277,
+      "lane": 1,
+      "type": "hold",
+      "duration_ms": 428
+    },
+    {
+      "time_ms": 61869,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 415
+    },
+    {
+      "time_ms": 62473,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 63077,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 381
+    },
+    {
+      "time_ms": 63680,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 64272,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 64876,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 65480,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 66072,
+      "lane": 1,
+      "type": "trap"
+    },
+    {
+      "time_ms": 66676,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 67279,
+      "lane": 3,
+      "type": "trap"
+    },
+    {
+      "time_ms": 67871,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 68475,
+      "lane": 3,
+      "type": "trap"
+    },
+    {
+      "time_ms": 69079,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 69683,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 70275,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 70878,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 71471,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 72074,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 72678,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 73282,
+      "lane": 1,
+      "type": "normal"
+    },
+    {
+      "time_ms": 73874,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 74478,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 75070,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 309
+    },
+    {
+      "time_ms": 75673,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 76277,
+      "lane": 2,
+      "type": "trap"
+    },
+    {
+      "time_ms": 76881,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 360
+    },
+    {
+      "time_ms": 77473,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 78053,
+      "lane": 2,
+      "type": "hold",
+      "duration_ms": 436
+    },
+    {
+      "time_ms": 78669,
+      "lane": 3,
+      "type": "hold",
+      "duration_ms": 314
+    },
+    {
+      "time_ms": 79272,
+      "lane": 3,
+      "type": "trap"
+    },
+    {
+      "time_ms": 79876,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 80480,
+      "lane": 2,
+      "type": "normal"
+    },
+    {
+      "time_ms": 81072,
+      "lane": 3,
+      "type": "normal"
+    },
+    {
+      "time_ms": 81676,
+      "lane": 3,
+      "type": "normal"
+    }
+  ]
+}
